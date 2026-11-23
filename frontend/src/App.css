@@ -1,0 +1,14 @@
+.app {
+  min-height: 100vh;
+  color: #212121;
+  background-color: #ffffff;
+}
+
+/* تنسيقات عامة للصور والبطاقات */
+img {
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.03);
+}
